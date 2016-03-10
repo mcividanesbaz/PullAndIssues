@@ -7,8 +7,8 @@ package pullandissues;
 
 /**
  *
- * @author damian
+ * @author nlopezjimenez
  */
-public class Damian {
-    //Esta clase es la mia 
+public class Nabor {
+    //Esta clase si es la mia
 }
