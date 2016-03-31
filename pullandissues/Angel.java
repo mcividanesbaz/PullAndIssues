@@ -7,8 +7,8 @@ package pullandissues;
 
 /**
  *
- * @author jota
+ * @author agomezcastro
  */
-public class Jorge {
+public class Angel {
     
 }
