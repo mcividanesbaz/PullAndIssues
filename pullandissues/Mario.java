@@ -3,12 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
 package pullandissues;
 
 /**
  *
- * @author jota
+ * @author mmoureperez
  */
-public class Jorge {
+public class Mario {
     
 }
